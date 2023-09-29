@@ -1,0 +1,47 @@
+html {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+}
+
+header {
+  height: 6rem;
+  text-align: left;
+}
+
+header img {
+  height: 100%;
+  width: unset;
+  padding: 1.5rem 3rem;
+}
+
+main {
+  width: 100%;
+}
+
+main .banner {
+  width: 100%;
+  background-size: 100%;
+}
+
+.main-content {
+  display: block;
+  width: 90%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.block-1 {
+  display: inline-block;
+  width: 49%;
+}
+
+.block-1 img {
+}
+
+.block-2 {
+  display: inline-block;
+  width: 50%;
+}
