@@ -77,7 +77,7 @@ main > div {
   width: 100%;
   background-image: url(../images/banner.jpg);
   background-size: 100%;
-  padding: 8% 25% 10% 25%;
+  padding: 12% 25% 12% 25%;
 }
 
 .button {
@@ -169,7 +169,7 @@ main > div {
 
 .card {
   width: 30%;
-  height: 400px;
+  height: 380px;
   vertical-align: middle;
   display: inline-block;
   background-size: cover;
@@ -211,12 +211,12 @@ main > div {
 
 .card p {
   font-size: 0.9rem;
-  margin: 1.25rem 0 2.5rem 0;
+  margin: 0.5rem 0 2.5rem 0;
   padding: 0 1rem;
 }
 
 footer {
-  padding: 1.5rem 0 2.5rem 0;
+  padding: 1.5rem 0 2.7rem 0;
   background-color: #25a2c3;
   color: #c8e7f0;
 }
@@ -251,10 +251,11 @@ hr {
   width: 100%;
   border: 0;
   border-top: 1px solid #c8e7f0;
-  margin: 2rem auto;
+  margin: 1.3rem auto;
 }
 
 footer p:last-child {
   text-align: center;
   font-size: 0.8rem;
+  margin: 0;
 }
