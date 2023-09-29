@@ -64,7 +64,7 @@ main > div {
 .banner {
   width: 100%;
   background-image: url(../images/banner.jpg);
-  /* background-position: center; */
+  background-position: center;
   background-size: cover;
 }
 
@@ -166,7 +166,7 @@ footer p {
 }
 
 hr {
-  width: 50%;
+  width: 53%;
   border: 0;
   border-top: 1px solid #c8e7f0;
   margin: 2rem auto;
